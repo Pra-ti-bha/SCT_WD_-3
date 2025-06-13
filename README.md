@@ -3,7 +3,7 @@ Tic Tac Toe
 A modern, interactive Tic Tac Toe web application built with plain HTML, CSS, and JavaScript.
 
 
-Features
+Features:
 
 Play against another player (Player vs Player mode).
 
@@ -18,7 +18,7 @@ Visual highlight for winning combination.
 Option to reset the game anytime.
 
 
-How to Use
+How to Use:
 
 Open the tic-tac-toe.html file in any modern web browser.
 
@@ -31,7 +31,7 @@ The game automatically detects wins or draws.
 Click “New Game” to reset and play again.
 
 
-Technology Stack
+Technology Stack:
 
 HTML5 for markup.
 
